@@ -8,4 +8,4 @@ The whitepaper is available here: https://github.com/McL0v1n/HyperMesh/blob/mast
 **Tomesh Raspberry Pi** - https://github.com/tomeshnet/prototype-cjdns-pi  
 **Open80211s** - https://github.com/o11s/open80211s
 
-
+## Communities
