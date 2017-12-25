@@ -10,6 +10,6 @@ The whitepaper is available here: https://github.com/McL0v1n/HyperMesh/blob/mast
 
 ## Communities
 
-**ToMesh - Toronto, Ontario, Canada** - https://tomesh.net/
-**NYCMesh - New York, NY - https://nycmesh.net/
-**PhillyMesh - Philadelphia, PA** - https://phillymesh.net/
+**ToMesh - Toronto, Ontario, Canada** - https://tomesh.net/  
+**NYCMesh - New York, NY - https://nycmesh.net/  
+**PhillyMesh - Philadelphia, PA** - https://phillymesh.net/  
